@@ -1,7 +1,7 @@
-# using statement (Keyword - Scope)
+## using statement (Keyword - Scope)
 -----
-# sealed:
-# record:
-# AsReadonly:
-# Any - All:
-# Required Member:
+## sealed Keyword:
+## record Type:
+## AsReadonly Methpd:
+## Any - All Methods:
+## Required Member:

@@ -16,4 +16,4 @@
 ## IQueryable:
 ## EF Core Indexing:
 ## CancellationToken:
-## Asenkron:
+## Asenkron (async-await-Task):

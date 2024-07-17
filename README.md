@@ -16,3 +16,4 @@
 ## IQueryable:
 ## EF Core Indexing:
 ## CancellationToken:
+## Asenkron:

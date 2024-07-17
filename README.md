@@ -17,3 +17,4 @@
 ## EF Core Indexing:
 ## CancellationToken:
 ## Asenkron (async-await-Task):
+## Single Method - Unique Keyword:

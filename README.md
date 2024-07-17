@@ -1,2 +1,4 @@
-# aspnet-tricks
-aspnet-tricks
+# sealed:
+# record:
+# AsReadonly:
+# Any - All:

@@ -1,3 +1,5 @@
+## Global Usings
+-----
 ## using statement (Keyword - Scope)
 -----
 ## sealed Keyword:
@@ -18,3 +20,9 @@
 ## CancellationToken:
 ## Asenkron (async-await-Task):
 ## Single Method - Unique Keyword:
+
+## Logs:
+### Performance Log
+### Error Log
+
+## AsNoTracking

@@ -29,3 +29,6 @@
 ## Benchmark
 ## Pagination
 ## Entity Framework Eager - Lazy Loading
+## Error Log - Exception Handling Middleware
+## HealthCheck - UI, SQL 
+## Authorization - Rol, Yetki, Authorize

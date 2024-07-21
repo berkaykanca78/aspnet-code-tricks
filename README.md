@@ -33,6 +33,6 @@
 ## Authorization - Rol, Yetki, Authorize
 
 #### Kaynakça:
-TechBuddy (Salih Cantekin) - YouTube - Udemy
-IAmTimCorey - YouTube
-Taner Saydam - Udemy - YouTube
+- TechBuddy (Salih Cantekin) - YouTube - Udemy
+- IAmTimCorey - YouTube
+- Taner Saydam - Udemy - YouTube

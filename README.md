@@ -1,5 +1,5 @@
 # C# ASP.NET Core Code Tips - Tricks - Keywords:
-<img width="500px;" src="https://www.aceinfoway.com/blog/wp-content/uploads/2020/05/top-5-benefits-of-using-aspnet-core.jpg"/>
+<img width="700px;" src="https://www.aceinfoway.com/blog/wp-content/uploads/2020/05/top-5-benefits-of-using-aspnet-core.jpg"/>
 
 ---
 ## Global Usings

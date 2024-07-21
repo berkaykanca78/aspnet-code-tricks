@@ -31,3 +31,8 @@
 ## Entity Framework Eager - Lazy Loading
 ## HealthCheck - UI, SQL 
 ## Authorization - Rol, Yetki, Authorize
+
+#### Kaynakça:
+TechBuddy (Salih Cantekin) - YouTube - Udemy
+IAmTimCorey - YouTube
+Taner Saydam - Udemy - YouTube

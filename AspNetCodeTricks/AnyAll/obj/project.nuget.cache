@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UufleiMo78g=",
+  "success": true,
+  "projectFilePath": "C:\\GitProjects\\aspnet-code-tricks\\AspNetCodeTricks\\AnyAll\\AnyAll.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Berkay\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.4\\microsoft.windowsdesktop.app.ref.8.0.4.nupkg.sha512",
+    "C:\\Users\\Berkay\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.4\\microsoft.netcore.app.ref.8.0.4.nupkg.sha512",
+    "C:\\Users\\Berkay\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.4\\microsoft.aspnetcore.app.ref.8.0.4.nupkg.sha512",
+    "C:\\Users\\Berkay\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.4\\microsoft.netcore.app.host.win-x64.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
